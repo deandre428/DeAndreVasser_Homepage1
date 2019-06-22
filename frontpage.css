@@ -1,0 +1,81 @@
+body{
+	font-family:Sans-Serif;
+	color:white;
+	background-color:black;
+	
+}
+
+#id{
+	border-style:solid;
+	border-color:white;
+}
+
+
+
+span{
+	color:red;
+	font-weight:bold;
+}
+
+h1{
+	font-size:50px;
+	text-align:center;
+	
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: white;
+  
+ 
+}
+
+li {
+  float: left;
+  
+}
+
+li a {
+  display: inline-block;
+  color: black;
+  text-align: center;
+  padding: 14px  16px;
+  text-decoration: none;
+ 
+  
+}
+
+li a:hover {
+  background-color: green;
+ 
+}
+
+h2{
+	text-align:center;
+}
+
+div.picture1 {
+   width:400px; /*width of your image*/
+   height:500px; /*height of your image*/
+   background-image:url('pic.jpg');
+   margin:0; /* If you want no margin */
+   padding:0; /*if your want to padding */
+   margin-left:auto;
+   margin-right:auto;
+   display:block;
+}
+
+#quote{
+	color:white;
+	border-color:white;
+	border-style:solid;
+	width:25%;
+	padding: 5px;
+	font-weight:bold;
+}
+
+p{
+	font-size:17px;
+}
