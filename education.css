@@ -1,0 +1,27 @@
+body{
+	font-family:Sans-Serif;
+	color:white;
+	background-color:black;
+}
+
+
+
+span{
+	color:red;
+	font-weight:bold;
+}
+
+#education{
+	text-align:center;
+	font-size: 80px;
+}
+
+img{
+	float:right;
+}
+
+ 
+ #hfont{
+	 
+ font-size: 30px;
+ }

@@ -1,0 +1,38 @@
+
+body{
+	font-family:Sans-Serif;
+	color:white;
+	background-color:black;
+
+}
+
+
+
+
+
+
+#h4{
+	text-align:center;
+	font-size: 80px;
+}
+
+#cent2{
+	
+	
+	text-align:center;
+	font-weight:bold;
+	font-size:40px;
+	list-style-position: inside;
+}
+	
+	
+	
+
+
+a{
+	color:white;
+}
+
+a:hover{
+	color:green
+}

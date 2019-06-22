@@ -1,0 +1,33 @@
+
+body{
+	font-family:Sans-Serif;
+	color:white;
+	background-color:black;
+}
+
+span{
+	color:red;
+	font-weight:bold;
+}
+
+
+#h3{
+	text-align:center;
+	font-size: 80px;
+}
+
+ #h2{
+   
+   text-align:center;
+  font-size:40px;
+  font-weight:bold;
+  list-style-position: inside;
+ }
+ 
+ a{
+	 color:white;
+ }
+ 
+ a:hover{
+ color:green
+ }
